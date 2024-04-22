@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "description": "",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "name": "schola_chatbot",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "author": "Bibaswan Bhawal",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "openai": "^4.38.2"
+  }
+}
