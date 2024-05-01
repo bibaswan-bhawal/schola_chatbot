@@ -14,7 +14,7 @@ export default function Home() {
       </nav>
       <div className="h-full">
         <div className="flex flex-1 py-4 h-full">
-          <div className="w-[50vw] h-full mx-auto">
+          <div className="w-[90vw] md:w-[50vw] h-full mx-auto">
             <Chat />
           </div>
         </div>
